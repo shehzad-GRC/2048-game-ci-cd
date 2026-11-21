@@ -254,6 +254,6 @@ The application source and project outline come from the [ZTC projects](https://
 
 **Built by [shehzad-GRC](https://github.com/shehzad-GRC)**
 
-[📖 dev.to article](YOUR-DEVTO-LINK) · [💼 LinkedIn](YOUR-LINKEDIN-URL) · ⭐ Star this repo if it helped you
+[📖 dev.to article](https://dev.to/shehzad_ahmad_153/building-a-fully-automated-cicd-pipeline-on-aws-with-docker-ecr-codebuild-codepipeline-and-ecs-189o) · [💼 LinkedIn](www.linkedin.com/in/shehzad-ahmad153) · ⭐ Star this repo if it helped you
 
 </div>
